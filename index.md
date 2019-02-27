@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# "Library of Bodies" VR Project
+An exploration of gender, bodies, and virtual reality by Ellie Litwack
 
-You can use the [editor on GitHub](https://github.com/ellieLitwack/DCC209A-Documentation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```A preliminary abstract - replace with final capstone card```
+## Abstract 
+Using virtual reality, a person can experience a sense of bodily ownership over a virtual avatar. This project will develop first person, 360-degree videos which, when delivered via a virtual reality headset, will cause this experience. Past research has focused on using this effect to understand the physiological basis of transness. In contrast, this project will focus on understanding the relationship between bodies and identities. Emphasis will be placed on the opportunity to use body swapping experiences as part of a self-actuated personal exploration of gender. The experience will be distributed on YouTube 360 to provide a practical means for people questioning their gender identities to try on a variety of possible bodies and to help people understand how others experience their own bodies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project History
+### Paper Prototype: 180-degree "Spatial Storyboard"
+A normal storyboard is a comic-book like, shot-by-shot sketch of the temporal progression of a piece of media. This spatial storyboard instead explores the spatial path that a viewer’s gaze might follow as they are immersed in this virtual reality experience.
+![placeholder image][paperPrototype]
 
-### Markdown
+## Author Bio
+Ellie Litwack is a Mechanical Engineering student at the University of Maryland.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ellieLitwack/DCC209A-Documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[paperPrototype]: https://ter.ps/dcc209aimg1
