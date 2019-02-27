@@ -1,7 +1,8 @@
 # "Library of Bodies" VR Project
 An exploration of gender, bodies, and virtual reality by Ellie Litwack
 
-```A preliminary abstract - replace with final capstone card```
+[comment]: <> (A preliminary abstract - replace with final capstone card)
+
 ## Abstract 
 Using virtual reality, a person can experience a sense of bodily ownership over a virtual avatar. This project will develop first person, 360-degree videos which, when delivered via a virtual reality headset, will cause this experience. Past research has focused on using this effect to understand the physiological basis of transness. In contrast, this project will focus on understanding the relationship between bodies and identities. Emphasis will be placed on the opportunity to use body swapping experiences as part of a self-actuated personal exploration of gender. The experience will be distributed on YouTube 360 to provide a practical means for people questioning their gender identities to try on a variety of possible bodies and to help people understand how others experience their own bodies.
 
