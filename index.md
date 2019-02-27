@@ -14,4 +14,4 @@ A normal storyboard is a comic-book like, shot-by-shot sketch of the temporal pr
 ## Author Bio
 Ellie Litwack is a Mechanical Engineering student at the University of Maryland.
 
-[paperPrototype]: https://ter.ps/dcc209aimg1
+[paperPrototype]: https://i.imgur.com/lMmCdsK.jpg
