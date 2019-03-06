@@ -12,16 +12,19 @@ A normal storyboard is a comic-book like, shot-by-shot sketch of the temporal pr
 ![Layout of story board views][paperPrototype]
 
 ### User Feedback Incorporated Prototype
-Four users used an initial prototype of the VR experience. Several common themes were present in thier feedback. Each of these was adressed to create a user feedback incorporated prototype.
+Four users used an initial prototype of the VR experience. Several common themes were present in their feedback. Each of these was addressed to create a user feedback incorporated prototype.
 
 - Video Stability
-Users noticed small amounts of shaking in the video, which was caused by an unsteady camera. A process was developed to correct for this instability. High contrast markers were securely attached to walls in the feild of view of the camera. The motion paths of the markers were reconstructed digitally. This was used to "cancel-out" the unsteadyness of the camera. After this affect was applied, users did not notice any video stability issues. Below: Reconstructed paths of high contrast markers.
+Users noticed small amounts of shaking in the video, which was caused by an unsteady camera. A process was developed to correct for this instability. High contrast markers were securely attached to walls in the field of view of the camera. The motion paths of the markers were reconstructed digitally. This was used to "cancel-out" the unsteadiness of the camera. After this affect was applied, users did not notice any video stability issues. Below: Reconstructed paths of high contrast markers.
 ![High contrast marker paths][markers]
 
 - View angle
-With the initial prototype, viewers complained that they had to strain thier heads in order to get a good view of the virtual body. The pitch of the camera was digitally adjusted by 60 degrees. Despite meaning that this moved the visual location of the virtual body away from the location of the user's actual body, users reported that they felt more immersed after the angle and *believed* that the location of the virtual body was the same as the location of thier actual body. Below: The initial view transforms, as shown by the arrows, to bring more of the body into the user's comfortable field of view (FOV)
+With the initial prototype, viewers complained that they had to strain their heads in order to get a good view of the virtual body. The pitch of the camera was digitally adjusted by 60 degrees. Despite the fact that this moved the visual location of the virtual body away from the location of the user's actual body, users reported that they felt more immersed after the angle and *believed* that the location of the virtual body was the same as the location of their actual body. Below: The initial view transforms, as shown by the arrows, to bring more of the body into the user's comfortable field of view (FOV)
 ![initial image][init]
 ![corrected image][correct]
+
+- Clothing
+Users lost immersion when the location of their clothes did not match the location of the clothes on the virtual body. Now, users will be instructed to wear clothes that are similar to those worn in the video.
 
 ## Author Bio
 Ellie Litwack is a Mechanical Engineering student at the University of Maryland.
