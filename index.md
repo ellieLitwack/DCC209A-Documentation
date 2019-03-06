@@ -15,7 +15,7 @@ A normal storyboard is a comic-book like, shot-by-shot sketch of the temporal pr
 Four users used an initial prototype of the VR experience. Several common themes were present in their feedback. Each of these was addressed to create a user feedback incorporated prototype.
 
 - Video Stability:
-Users noticed small amounts of shaking in the video, which was caused by an unsteady camera. A process was developed to correct for this instability. High contrast markers were securely attached to walls in the field of view of the camera. The motion paths of the markers were reconstructed digitally. This was used to "cancel-out" the unsteadiness of the camera. After this affect was applied, users did not notice any video stability issues. Below: Reconstructed paths of high contrast markers.
+Users noticed small amounts of shaking in the video, which was caused by an unsteady camera. A process was developed to correct for this instability. High contrast markers were securely attached to walls in the field of view of the camera. The motion paths of the markers were reconstructed digitally. This was used to "cancel-out" the unsteadiness of the camera. After this effect was applied, users did not notice any video stability issues. Below: Reconstructed paths of high contrast markers.
 ![High contrast marker paths][markers]
 
 - View Angle:
