@@ -27,7 +27,7 @@ With the initial prototype, viewers complained that they had to strain their hea
 Users lost immersion when the location of their clothes did not match the location of the clothes on the virtual body. Now, users will be instructed to wear clothes that are similar to those worn in the video.
 
 ## Author Bio
-Ellie Litwack is a Mechanical Engineering student at the University of Maryland.
+Ellie Litwack is a mechanical engineering student at the University of Maryland.
 
 [paperPrototype]: https://i.imgur.com/lMmCdsK.jpg
 [init]: https://i.imgur.com/XF2Gr3n.jpg
