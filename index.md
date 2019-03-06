@@ -19,7 +19,7 @@ Users noticed small amounts of shaking in the video, which was caused by an unst
 ![High contrast marker paths][markers]
 
 - View Angle:
-With the initial prototype, viewers complained that they had to strain their heads in order to get a good view of the virtual body. The pitch of the camera was digitally adjusted by 60 degrees. Despite the fact that this moved the visual location of the virtual body away from the location of the user's actual body, users reported that they felt more immersed after the angle and *believed* that the location of the virtual body was the same as the location of their actual body. Below: The initial view transforms, as shown by the arrows, to bring more of the body into the user's comfortable field of view (FOV)
+With the initial prototype, viewers complained that they had to strain their heads in order to get a good view of the virtual body. The pitch of the camera was digitally adjusted by 60 degrees. Despite the fact that this moved the visual location of the virtual body away from the location of the user's actual body, users reported that they felt more immersed after the angle and *believed* that the location of the virtual body was the same as the location of their actual body. Below: The initial view transforms, as shown by the arrows, to bring more of the body into the user's comfortable field of view (FOV).
 ![initial image][init]
 ![corrected image][correct]
 
