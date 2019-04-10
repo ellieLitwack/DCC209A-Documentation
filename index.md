@@ -26,6 +26,11 @@ With the initial prototype, viewers complained that they had to strain their hea
 - Clothing:
 Users lost immersion when the location of their clothes did not match the location of the clothes on the virtual body. Now, users will be instructed to wear clothes that are similar to those worn in the video.
 
+### Alpha Build
+![alpha shorts][shorts]
+![alpha jeans][jeans]
+Several improvements were made between the prototype and the alpha build. A high-quality lighting environment was used to improve the visuals. A mirror was added so the user can see more of the virtual body, resulting in a more thought-provoking experience. Two versions were created, one with long pants and the other with shorts, to accommodate the variety of clothing that users might wear during the experience. Overall, the alpha build represents a final visual product that still lacks audio.
+
 ## Author Bio
 Ellie Litwack is a mechanical engineering student at the University of Maryland.
 
@@ -33,3 +38,5 @@ Ellie Litwack is a mechanical engineering student at the University of Maryland.
 [init]: https://i.imgur.com/XF2Gr3n.jpg
 [correct]: https://i.imgur.com/nD3nzBe.jpg
 [markers]: https://i.imgur.com/wIMIwSf.png
+[alpha shorts]: https://i.imgur.com/YNQjArl.jpg
+[alpha jeans]: https://i.imgur.com/IhkVFqJ.jpg
