@@ -31,6 +31,16 @@ Several improvements were made between the prototype and the alpha build. A high
 ![alpha shorts][shorts]
 ![alpha jeans][jeans]
 
+### Beta Build
+No images are included as no visual changes have taken place since the alpha build. A technical challenge that arose in creating the beta build was rendering the video. This is difficult due to the large amount of time required to process the video. Rendering of one of the two videos was initiated on the lab computer on Tuesday April 24th and is expected to complete by 4:30 PM on Wednesday April 25th assuming that no one shut down the computer during the day. The second video will be rendered after the first is complete.
+
+The main component of the beta build was creating audio to accompany the visual experience. I decided against my initial plan of using a personal narrative of the person in the video because I felt it distracted too much from the already busy experience. After several iterations, I settled on a narration that draws inspiration from the concept of a body scan meditation. The user is asked to ground themselves and focus simply on how their body feels. The user can then reflect on the significance of the experience afterwards.
+
+As the audio cannot be added to the video until rendering has completed, a transcript is below.
+
+#### Transcript
+Focus your attention on the souls of your feet. Now, raise your left and hand stretch out your fingertips. Raise your right hand and feel your clenched fist. As you move your hands, feel each part of your body. Finally, drag your hands up your body to trace out the shape of yourself, and then drag them back down. Return your attention to the souls of your feet.
+
 ## Author Bio
 Ellie Litwack is a mechanical engineering student at the University of Maryland.
 
