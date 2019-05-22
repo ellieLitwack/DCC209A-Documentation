@@ -1,12 +1,18 @@
-# "Library of Bodies" VR Project
+# Body Swap VR: A Body Scan Meditation in Another Person’s Body
 An exploration of gender, bodies, and virtual reality by Ellie Litwack
 
-[comment]: <> (A preliminary abstract - replace with final capstone card)
-
 ## Abstract 
-Using virtual reality, a person can experience a sense of bodily ownership over a virtual avatar. This project will develop first person, 360-degree videos which, when delivered via a virtual reality headset, will cause this experience. Past research has focused on using this effect to understand the physiological basis of transness. In contrast, this project will focus on understanding the relationship between bodies and identities. Emphasis will be placed on the opportunity to use body swapping experiences as part of a self-actuated personal exploration of gender. The experience will be distributed on YouTube 360 to provide a practical means for people questioning their gender identities to try on a variety of possible bodies and to help people understand how others experience their own bodies.
+Other people’s bodies can feel so foreign: it’s difficult to even imagine how having a different shape or appearance would feel. This virtual reality experience takes “walking in someone else’s shoes” to another level: you see a real person’s body, from their perspective, captured using panoramic video. By matching your movements to those in the video, you feel a deeper sense of immersion. The experience is meant as a jumping off point for inquiry: how do other people see the person in the video? How do they see themselves?  How do the differences between your body and theirs shape your experience?
 
-## Project History
+## Final Project Images
+Below are examples of what the user would see during the final version of the experience.
+![alpha shorts][shorts]
+![alpha jeans][jeans]
+![lower view 1][lowerfinal1]
+![ lower view 2][lowerfinal2]
+
+## Blog
+These posts document the iterative development of the project
 ### Paper Prototype: 180-degree "Spatial Storyboard"
 A normal storyboard is a comic-book like, shot-by-shot sketch of the temporal progression of a piece of media. This spatial storyboard instead explores the spatial path that a viewer’s gaze might follow as they are immersed in this virtual reality experience.
 ![Layout of story board views][paperPrototype]
@@ -27,9 +33,15 @@ With the initial prototype, viewers complained that they had to strain their hea
 Users lost immersion when the location of their clothes did not match the location of the clothes on the virtual body. Now, users will be instructed to wear clothes that are similar to those worn in the video.
 
 ### Alpha Build
-Several improvements were made between the prototype and the alpha build. A high-quality lighting environment was used to improve the visuals. A mirror was added so the user can see more of the virtual body, resulting in a more thought-provoking experience. Two versions were created, one with long pants and the other with shorts, to accommodate the variety of clothing that users might wear during the experience. Overall, the alpha build represents a final visual product that still lacks audio.
+Several improvements were made between the prototype and the alpha build. A high-quality lighting environment was used to improve the visuals.
+![lighting][lighting1]
+![lighting][lighting2]
+
+A mirror was added so the user can see more of the virtual body, resulting in a more thought-provoking experience. Two versions were created, one with long pants and the other with shorts, to accommodate the variety of clothing that users might wear during the experience. Overall, the alpha build represents a final visual product that still lacks audio.
+
 ![alpha shorts][shorts]
 ![alpha jeans][jeans]
+
 
 ### Beta Build
 No images are included as no visual changes have taken place since the alpha build. A technical challenge that arose in creating the beta build was rendering the video. This is difficult due to the large amount of time required to process the video. Rendering of one of the two videos was initiated on the lab computer on Tuesday April 24th and is expected to complete by 4:30 PM on Wednesday April 25th assuming that no one shut down the computer during the day. The second video will be rendered after the first is complete.
@@ -50,3 +62,7 @@ Ellie Litwack is a mechanical engineering student at the University of Maryland.
 [markers]: https://i.imgur.com/wIMIwSf.png
 [shorts]: https://i.imgur.com/YNQjArl.jpg
 [jeans]: https://i.imgur.com/IhkVFqJ.jpg
+[lighting1]: https://i.imgur.com/IACb2pe.jpg
+[lighting2]: https://i.imgur.com/u64Ew9M.jpg
+[lowerfinal1]: https://i.imgur.com/itPiCIq.jpg
+[lowerfinal2]: https://i.imgur.com/6kuhMin.jpg
