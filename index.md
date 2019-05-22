@@ -5,11 +5,28 @@ An exploration of gender, bodies, and virtual reality by Ellie Litwack
 Other people’s bodies can feel so foreign: it’s difficult to even imagine how having a different shape or appearance would feel. This virtual reality experience takes “walking in someone else’s shoes” to another level: you see a real person’s body, from their perspective, captured using panoramic video. By matching your movements to those in the video, you feel a deeper sense of immersion. The experience is meant as a jumping off point for inquiry: how do other people see the person in the video? How do they see themselves?  How do the differences between your body and theirs shape your experience?
 
 ## Final Project Images
-Below are examples of what the user would see during the final version of the experience.
+Below are examples of what the user would see when using the final version of the experience.
 ![alpha shorts][shorts]
 ![alpha jeans][jeans]
 ![lower view 1][lowerfinal1]
 ![ lower view 2][lowerfinal2]
+
+## Documentation of Capstone Fair
+I presented the final version of my project at the DCC capstone fair. Several people got the opportunity to try the experience for themselves.
+![woman trying][capstone1]
+
+Meanwhile other attendees could see a projection of the participant’s view on a nearby monitor.
+![outside view][capstone2]
+
+I had the opportunity to talk with participants and learn about their reactions. Most were surprised at how immersed they became in the experience. “That was incredible,” one said. “I truly felt like I was in a different body.” Another participant said he eventually started to perceive the body in the video as under his control. “Towards the end, I moved my foot, and I was so surprised when the foot in the video didn’t move with me.”
+
+In addition to these more superficial observations, multiple participants highlighted that the similarities between their bodies and the body in the video were more noticeable than the differences. “I looked down and immediately thought, this seems like my body,” one person said.
+
+“I wish she [the person in the video] had been more full-figured. Like, I wish she had a large bosom,” one woman said. “But as it is, I looked down and thought, ‘well that’s about what I’ve got.’”
+
+When people did find differences between themselves and the body in the video, they quickly forgot about them. A black person who tried the experience said, “at first, I noticed it [the difference in skin color between herself and the body in the video], but after a minute I wasn’t thinking about it at all.”
+
+The noisy, public environment proved to be the greatest issue for the experience. Many people weren’t comfortable putting on a VR headset with others around. If I were to show it again, I would want to do so in an environment where I could sit one on one with participants.
 
 ## Blog
 These posts document the iterative development of the project
@@ -66,3 +83,5 @@ Ellie Litwack is a mechanical engineering student at the University of Maryland.
 [lighting2]: https://i.imgur.com/u64Ew9M.jpg
 [lowerfinal1]: https://i.imgur.com/itPiCIq.jpg
 [lowerfinal2]: https://i.imgur.com/6kuhMin.jpg
+[capstone1]: https://i.imgur.com/m4DOrbr.jpg
+[capstone2]: https://i.imgur.com/sSQS8nz.jpg
